@@ -2,6 +2,9 @@
 
 This is POC of an intelligent chatbot tailored for an e-commerce platform, enabling seamless user interactions by accurately identifying the intent behind user queries. It leverages real-time access to the platform's database, allowing it to provide precise and up-to-date responses.
 
+## 🌐 Live Demo
+Try it out here: **[Click Here](https://rakesh-project-ecommerce-chat-bot.streamlit.app/)**  
+
 This chatbot currently supports two intents:
 
 - **faq**: Triggered when users ask questions related to the platform's policies or general information. eg. Is online payment available?
@@ -83,3 +86,4 @@ The router classifies the query into one of three categories:
 - **SQL Route** → Displays filtered product results with links, titles, and prices.  
 - **FAQ Route** → Shows concise and accurate answers sourced from uploaded CSV data.  
 - **Small Talk** → Outputs informal, chatbot-style replies for improved UX.  
+
