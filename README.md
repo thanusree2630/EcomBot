@@ -87,3 +87,5 @@ The router classifies the query into one of three categories:
 - **FAQ Route** → Shows concise and accurate answers sourced from uploaded CSV data.  
 - **Small Talk** → Outputs informal, chatbot-style replies for improved UX.  
 
+### 🖼️ Application Snapshot
+![](Ecommerce-Tool-UI.png)
