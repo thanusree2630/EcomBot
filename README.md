@@ -5,7 +5,7 @@ This is POC of an intelligent chatbot tailored for an e-commerce platform, enabl
 ## 🌐 Live Demo
 Try it out here: **[Click Here](https://rakesh-project-ecommerce-chat-bot.streamlit.app/)**  
 
-This chatbot currently supports two intents:
+This chatbot currently supports three intents:
 
 - **faq**: Triggered when users ask questions related to the platform's policies or general information. eg. Is online payment available?
 - **sql**: Activated when users request product listings or information based on real-time database queries. eg. Show me all nike shoes below Rs. 3000.
@@ -89,3 +89,4 @@ The router classifies the query into one of three categories:
 
 ### 🖼️ Application Snapshot
 ![](Ecommerce-Tool-UI.png)
+
