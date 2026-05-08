@@ -1,5 +1,7 @@
 # 🛒 EcomBot
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-EcomBot-blue?style=for-the-badge)](https://ecombot-conversationalai.streamlit.app/)
+
 ### AI-Powered E-commerce Chatbot using Llama 3.3, Groq & RAG
 
 EcomBot is an intelligent e-commerce chatbot that provides real-time product search and customer support using Generative AI. It uses RAG, semantic routing, SQL querying, and Groq-powered LLM inference to deliver fast and accurate responses.
@@ -87,8 +89,6 @@ streamlit run app/main.py
 ```
 
 ---
-
-
 
 
 
